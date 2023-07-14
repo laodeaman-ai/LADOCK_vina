@@ -6,8 +6,6 @@ Aplikasi ini menggunakan skrip prepare_ligand4.py dan prepare_receptor4.py dari 
 1. Pastikan Anda memiliki Python 3.x terinstal di komputer Anda.
 2. Unduh atau salin kode aplikasi ini ke direktori lokal Anda.
 3. Buka terminal atau command prompt dan navigasikan ke direktori tempat Anda menyimpan kode aplikasi.
-4. (Opsional) Buat virtual environment untuk mengisolasi dependensi aplikasi.
-5. Instal dependensi yang diperlukan dengan menjalankan perintah: `pip install -r requirements.txt`.
 
 ## Penggunaan
 1. Siapkan direktori dengan struktur berikut:
