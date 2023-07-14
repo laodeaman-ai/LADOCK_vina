@@ -1,5 +1,5 @@
 # LADOCK_vina
-Aplikasi ini menggunakan skrip prepare_ligand4.py dan prepare_receptor4.py dari paket MGLTools untuk mengubah file PDB menjadi file PDBQT yang diperlukan dalam simulasi docking. Selain itu, aplikasi juga menggunakan paket AutoDock Vina dan AutoDock Vina Split untuk melakukan simulasi docking. Aplikasi ini menghasilkan file konfigurasi "config.txt" yang berisi koordinat titik pusat, ukuran grid box, dan parameter tambahan untuk setiap file PDB yang diproses.
+Aplikasi ini dapat digunakan untuk melakukan docking molekular secara simultan dari banyak ligan dan banyak target menggunakan autodock-vina. simulasi menggunakan AutoDock Vina dan AutoDock Vina Split. Selain itu, aplikasi ini juga menggunakan skrip prepare_ligand4.py dan prepare_receptor4.py dari paket MGLTools untuk mengubah file PDB menjadi file PDBQT yang diperlukan dalam simulasi docking. Aplikasi ini juga menghasilkan file konfigurasi "config.txt" yang berisi koordinat titik pusat, ukuran grid box, dan parameter tambahan untuk setiap file PDB yang diproses.
 
 ## Instalasi
 
