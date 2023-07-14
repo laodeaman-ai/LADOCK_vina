@@ -1,6 +1,6 @@
 # Silakan melakukan editing sesuai kebutuhan dan kenyataan Anda 
-ligand_center = False # Bila tidak menjadikan molekul ligand sebagai center grid box ubah ke "False"  
-target_center = True # Bila menjadikan molekul molekul target sebagai center grid box ubah ke "True"
+ligand_center = False # Bila menjadikan molekul ligand sebagai center grid box ubah ke "True"  
+target_center = True # Bila tidak menjadikan molekul molekul target sebagai center grid box ubah ke "False"
 
 ligand_dir = "Ligand" # nama direktori ligand
 target_dir = "Target" # nama direktori target
