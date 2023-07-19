@@ -18,8 +18,6 @@ Aplikasi ini berguna untuk melakukan docking molekular secara simultan dari bany
    - `target_dir`: Nama direktori target.
    - `mgltools_dir`: Path menuju direktori MGLTools.
    - `output_dir`: Nama direktori output.
-   - `ligand_center`: True jika ingin menghasilkan file PDBQT pusat berat ligand, False jika tidak.
-   - `target_center`: True jika ingin menghasilkan file PDBQT pusat berat target, False jika tidak.
    - `size_x`, `size_y`, `size_z`: Ukuran grid box dalam angka float.
    - `num_modes`, `exhaustiveness`, `cpu`: Parameter tambahan untuk file konfigurasi.
 
