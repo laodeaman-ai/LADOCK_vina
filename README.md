@@ -27,6 +27,12 @@ Aplikasi ini berguna untuk melakukan docking molekular secara simultan dari bany
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan kirimkan pull request dengan perubahan yang diusulkan.
 
+
+## Catatan Penting
+
+Aplikasi ini hanya dapat digunakan untuk simulasi teknik blind docking. Dengan kata lain, grid box berpusat pada molekul target (protein, polimer, dll).
+
+
 ## Licensi
 
 Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
