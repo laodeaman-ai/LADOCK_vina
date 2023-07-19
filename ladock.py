@@ -4,6 +4,8 @@ from Bio.PDB import PDBParser
 import config
 
 # Jangan melakukan editing 
+ligand_center = False 
+target_center = True
 ligand_dir = config.ligand_dir
 target_dir = config.target_dir
 mgltools_dir = config.mgltools_dir
